@@ -19,4 +19,3 @@ function clearDisplay() {
       alert("Invalid operation!");
     }
   }
-  
