@@ -9,3 +9,71 @@ button {
     display: inline-block;
     font-size: 16px;
   } 
+
+  .row1 {
+    flex-direction: row; /* Ensure row layout */
+    margin: 10px;
+    width: 50px;
+    height: 100px;
+    background-color: #b777e9; /* Background color for the row */
+    width: 10%; /* Make sure the container takes the full width */
+  }
+
+  .row2 {
+    flex-direction: row; /* Ensure it's a row layout (this is default in flex) */
+    align-items: center; /* Align items vertically in the center */
+    margin: 10px;
+    width: 50px;
+    height: 100px;
+    width: 10%;
+    background: #ed515c
+  }
+
+  .row3 {
+    flex-direction: row; /* Ensure it's a row layout (this is default in flex) */
+    align-items: center; /* Align items vertically in the center */
+    margin: 10px;
+    padding: 30px;
+    background: #b777e9
+  }
+
+  .row4 {
+    flex-direction: row; /* Ensure it's a row layout (this is default in flex) */
+    align-items: center; /* Align items vertically in the center */
+    margin: 10px;
+    padding: 30px;
+    background: #b777e9
+  }
+
+  .row5 {
+    flex-direction: row; /* Ensure it's a row layout (this is default in flex) */
+    align-items: center; /* Align items vertically in the center */
+    margin: 10px;
+    padding: 30px;
+    background: #b777e9
+  }
+
+  .row6 {
+    flex-direction: row; /* Ensure it's a row layout (this is default in flex) */
+    align-items: center; /* Align items vertically in the center */
+    margin: 10px;
+    padding: 30px;
+    background: #b777e9
+  }
+
+  .row7 {
+    flex-direction: row; /* Ensure it's a row layout (this is default in flex) */
+    align-items: center; /* Align items vertically in the center */
+    margin: 10px;
+    padding: 30px;
+    background: #b777e9
+  }
+
+  .row8 {
+    flex-direction: row; /* Ensure it's a row layout (this is default in flex) */
+    align-items: center; /* Align items vertically in the center */
+    margin: 10px;
+    padding: 30px;
+    background: #b777e9
+  }
+
