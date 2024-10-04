@@ -1,5 +1,5 @@
-button {
-    background-color: #ffffff; /* Green */
+n, button {
+    background-color: #ffffff; /* common color */
     border: 2px solid rgb(0,0,0);
     border-radius: 8px;
     color: rgb(0, 0, 0);
@@ -10,70 +10,42 @@ button {
     font-size: 16px;
   } 
 
-  .row1 {
-    flex-direction: row; /* Ensure row layout */
-    margin: 10px;
+  .row {
+    flex-direction: row; /* layout */
+    margin: 2px;
     width: 50px;
     height: 100px;
-    background-color: #b777e9; /* Background color for the row */
-    width: 10%; /* Make sure the container takes the full width */
+    width: 9%; /* width */
   }
 
-  .row2 {
-    flex-direction: row; /* Ensure it's a row layout (this is default in flex) */
-    align-items: center; /* Align items vertically in the center */
-    margin: 10px;
-    width: 50px;
-    height: 100px;
-    width: 10%;
-    background: #ed515c
+  .toonup {
+    background-color: #b777e9;
+  }
+  
+  .trap {
+    background-color: #ed515c;
   }
 
-  .row3 {
-    flex-direction: row; /* Ensure it's a row layout (this is default in flex) */
-    align-items: center; /* Align items vertically in the center */
-    margin: 10px;
-    padding: 30px;
-    background: #b777e9
+  .lure {
+    background-color: #49b147;
   }
 
-  .row4 {
-    flex-direction: row; /* Ensure it's a row layout (this is default in flex) */
-    align-items: center; /* Align items vertically in the center */
-    margin: 10px;
-    padding: 30px;
-    background: #b777e9
+  .throw {
+    background-color: #ed873e;
   }
 
-  .row5 {
-    flex-direction: row; /* Ensure it's a row layout (this is default in flex) */
-    align-items: center; /* Align items vertically in the center */
-    margin: 10px;
-    padding: 30px;
-    background: #b777e9
+  .squirt {
+    background-color: #ee3dbb;
   }
 
-  .row6 {
-    flex-direction: row; /* Ensure it's a row layout (this is default in flex) */
-    align-items: center; /* Align items vertically in the center */
-    margin: 10px;
-    padding: 30px;
-    background: #b777e9
+  .zap {
+    background-color: #e8ee58;
   }
 
-  .row7 {
-    flex-direction: row; /* Ensure it's a row layout (this is default in flex) */
-    align-items: center; /* Align items vertically in the center */
-    margin: 10px;
-    padding: 30px;
-    background: #b777e9
+  .sound {
+    background-color: #5765e0;
   }
 
-  .row8 {
-    flex-direction: row; /* Ensure it's a row layout (this is default in flex) */
-    align-items: center; /* Align items vertically in the center */
-    margin: 10px;
-    padding: 30px;
-    background: #b777e9
+  .drop {
+    background-color: #3fe3ee;
   }
-
